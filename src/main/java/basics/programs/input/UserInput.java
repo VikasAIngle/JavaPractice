@@ -1,4 +1,4 @@
-package basics;
+package basics.programs.input;
 
 // Java Program for different types of user input
 
